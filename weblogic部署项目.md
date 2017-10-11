@@ -16,5 +16,5 @@
         进入我们的网页
 * 方法2
         直接将war包放入domain域的主目录下的autodeploy目录里面，
-        当重新启动weblogic的时候，会自动部署autodeploy目录下的项目。
+        当重新启动weblogic的时候，会自动部署autodeploy目录下的项目。<br>
     ![图片](https://t1.picb.cc/uploads/2017/10/11/MlMyj.md.png)
